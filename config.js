@@ -9,10 +9,10 @@ import axios from 'axios'
 global.owner = [
   ['917605902011', 'GURU', true],
   ['6281255369012', 'Ash', true], 
-  [''] 
+  ['94766910147'] 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "94757101708" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -50,24 +50,24 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'KING INZANE'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = 'KING INZANE' 
+global.author = 'MR|SADU' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
-global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
+global.fglog = 'https://telegra.ph/file/eff0851bb33b9526ba4c7.jpg' 
+global.thumb = fs.readFileSync('https://telegra.ph/file/24b30662e9e5e5222ede4.jpg')
 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
-global.done = '✅'
+global.done = '✅හරි බං'
 global.error = '❌' 
 global.xmoji = '🔥' 
 
